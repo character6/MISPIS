@@ -242,5 +242,6 @@ workload*, *View employment*).
 В результате обратного инжиниринга получена обновлённая диаграмма классов,  
 которая однозначно отражает структуру реализованного кода.
 
-![](diagrams/ReverseEngineering.jpg)#   M I S P I S  
+![](diagrams/ReverseEngineering.jpg)#   M I S P I S 
+ 
  
